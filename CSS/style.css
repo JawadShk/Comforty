@@ -26,9 +26,12 @@
     width: 10%;
     padding: 25px;
     position: absolute;
-    top: 25%;
+    top: 10%;
     left: 75%;
     text-align: center;
+}
+.welcome{
+    position: relative;
 }
 .discount h1{
     color: red;
@@ -63,9 +66,9 @@
         font-weight: 700;
     }
     .discount {
-        /* padding: 20px;
-        top: 40%; */
-        display: none;
+        /* padding: 20px; */
+        top: 40%; 
+        /* display: none; */
     }
 }
 /* banner end  */
